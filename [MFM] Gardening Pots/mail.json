@@ -1,0 +1,12 @@
+[
+	{
+		"Id": "Gardening.Pot.Send",
+		"GroupID": "Gardening.Pot",
+		"Title": "gardeningpot.title",
+		"Text": "gardeningpot.text",
+		"Attachments": [{"Type": "BigCraftable", "Name":"Garden Pot", "Stack": 3},],
+		"WhichBG": 0,
+		"Date": "1 summer Y1",
+		"Repeatable": false,
+	},
+]
